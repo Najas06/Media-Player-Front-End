@@ -1,0 +1,1 @@
+export const server = 'https://media-player-json-server-m44q.onrender.com'
