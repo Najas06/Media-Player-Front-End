@@ -54,7 +54,7 @@ function Category() {
       </div>
       <div>
         {
-          allCategory.length>0?
+          allCategory?.length>0?
             allCategory.map(item => (
               <div className="m-3 border border-secondary rounded p-3 ">
                 <div className="d-flex justify-content-center align-items-center text-center">
